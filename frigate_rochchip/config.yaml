@@ -1,6 +1,6 @@
 name: Frigate Rockchip (0.13.2)
 #version: 0.13.2-rk
-version: 0.13.2-rk
+version: dev-68ed18d-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
@@ -18,7 +18,7 @@ ingress_entry: /
 panel_admin: false
 homeassistant_api: true
 hassio_api: true
-devicetree: true
+#devicetree: true
 ports:
   8555/tcp: 8555
   8555/udp: 8555
