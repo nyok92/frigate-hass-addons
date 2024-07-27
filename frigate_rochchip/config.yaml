@@ -1,9 +1,10 @@
 name: Frigate Rockchip Beta
-version: 0.14.0-beta4-rk
+version: 0.14.0-rc1-rk
 breaking_versions:
   - 0.14.0-beta1-rk
   - 0.14.0-beta2-rk
   - 0.14.0-beta3-rk
+  - 0.14.0-beta4-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
