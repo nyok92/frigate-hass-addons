@@ -19,6 +19,7 @@ panel_admin: false
 homeassistant_api: true
 hassio_api: true
 devicetree: true
+kernel_modules: true
 ports:
   8555/tcp: 8555
   8555/udp: 8555
