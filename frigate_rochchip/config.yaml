@@ -1,6 +1,6 @@
 name: Frigate Rockchip
 #version: 0.15.0-rk
-version: 7f966df-rk
+version: fa4643f-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
