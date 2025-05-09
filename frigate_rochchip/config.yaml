@@ -66,3 +66,4 @@ arch:
 map:
   - "media:rw"
   - "config:rw"
+  - "addon_config:rw"
