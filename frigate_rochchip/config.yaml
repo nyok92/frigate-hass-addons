@@ -1,5 +1,5 @@
 name: Frigate Rockchip
-version: dfd837c-rk
+version: 818cccb-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
