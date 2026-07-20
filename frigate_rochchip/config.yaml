@@ -1,5 +1,5 @@
 name: Frigate Rockchip
-version: b7cdc1c-standard-arm64
+version: 6f80bcd-standard-arm64
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
