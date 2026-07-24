@@ -1,11 +1,11 @@
 name: Frigate Rockchip
-version: 6f80bcd-standard-arm64
+version: cfe0a45-standard-arm64
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
 description: NVR with realtime local object detection for IP cameras
-url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate
+url: "https://github.com/nyok92/frigate"
+image: ghcr.io/nyok92/frigate
 startup: application
 boot: auto
 init: false
