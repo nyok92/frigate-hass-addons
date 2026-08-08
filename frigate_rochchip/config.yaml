@@ -54,6 +54,7 @@ privileged:
   - SYS_RAWIO
   - SYS_RESOURCE
   - SYS_TIME
+  - PERFMON
 environment:
   CONFIG_FILE: /config/frigate.yml
 schema:
