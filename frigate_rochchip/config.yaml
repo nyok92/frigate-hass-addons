@@ -60,8 +60,8 @@ schema:
   plus_api_key: password?
   go2rtc_allow_arbitrary_exec: str?  
 options:
-  plus_api_key:
-  go2rtc_allow_arbitrary_exec:
+  plus_api_key: ""
+  go2rtc_allow_arbitrary_exec: ""
 services:
   - "mqtt:want"
 arch:
