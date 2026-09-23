@@ -56,6 +56,7 @@ privileged:
   - SYS_TIME
 environment:
   CONFIG_FILE: /config/frigate.yml
+  FRIGATE_RUN_AS_ROOT: true
 schema:
   plus_api_key: password?
   go2rtc_allow_arbitrary_exec: str?  
