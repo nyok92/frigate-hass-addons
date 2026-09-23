@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Frigate Rockchip Beta (0.17.2)
+# Home Assistant Add-on: Frigate Rockchip Beta (dev branch)
 
 Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
 
