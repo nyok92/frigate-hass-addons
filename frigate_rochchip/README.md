@@ -1,4 +1,6 @@
-# Home Assistant Add-on: Frigate Rockchip Beta (dev branch)
+# Home Assistant Add-on: Frigate Rockchip rk3588 (frigate dev branch)
+
+NPU + VPU support of mainline linux
 
 Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
 
