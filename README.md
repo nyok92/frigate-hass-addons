@@ -10,6 +10,6 @@ Or, in your Home Assistant, navigate to _Configuration_ > _Add-ons, Backups & Su
 
 ## Add-ons provided by this repository
 
-- [Frigate Rockchip](frigate_rk_beta/README.md)
+- [Frigate Rockchip](frigate_rochchip/README.md)
 
 NVR with realtime local object detection for IP cameras
