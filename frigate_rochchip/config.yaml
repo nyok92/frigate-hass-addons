@@ -57,7 +57,8 @@ privileged:
   - SYS_TIME
 environment:
   CONFIG_FILE: /config/frigate.yml
-  EXTRA_GROUPS: "27,44,105"
+  FRIGATE_DEVICE_ACLS: "false"
+  EXTRA_GROUPS: "103,27,44,105"
 #  FRIGATE_RUN_AS_ROOT: "true"
 schema:
   plus_api_key: password?
