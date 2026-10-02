@@ -69,6 +69,6 @@ arch:
   - aarch64
 map:
   - "media:rw"
-  - "addon_config:rw"
+  - "app_config:rw"
   - "homeassistant_config:rw"
   - "ssl"
